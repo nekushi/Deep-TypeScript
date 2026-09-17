@@ -1,4 +1,5 @@
 TypeScript Topics
+
 - Basic Types
 - Type Inference
 - Arrays & Tuples
@@ -26,6 +27,7 @@ TypeScript Topics
 - satisfies
 
 Zod Topics
+
 - Runtime vs Compile-time
 - z.object()
 - parse()
