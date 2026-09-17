@@ -1,0 +1,27 @@
+1	Basic types & annotations	✅
+2	Type vs Interface	✅
+3	Union types	✅
+4	any vs unknown	✅
+5	Type narrowing & type guards	✅
+6	Type assertions	✅
+7	Generics	✅
+8	Generic constraints (extends)	✅
+9	keyof	✅
+10	Indexed access (T[K])	✅
+11	Utility types	✅
+12	Function types	✅
+13	Unions & intersections	✅
+14	Discriminated unions	✅
+15	Exhaustiveness checking (never)	✅
+16	null / undefined / strictness	✅
+17	Optional chaining & nullish coalescing	✅
+18	Enums & literal types	✅
+19	Tuples & advanced tuple patterns	✅
+20	Classes & access modifiers	🔜
+21	Interfaces in depth	🔜
+22	Modules & type organization	🔜
+23	Type inference & widening	🔜
+24	Advanced type manipulation	🔜
+25	Zod & runtime validation	🔜
+26	Real-world API typing & boundaries	🔜
+27	Self-project / apply everything	🔜
