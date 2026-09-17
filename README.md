@@ -1,4 +1,4 @@
-TypeScript Topics
+## TypeScript Topics
 
 - Basic Types
 - Type Inference
@@ -26,7 +26,7 @@ TypeScript Topics
 - Type Guards & Assertion Functions
 - satisfies
 
-Zod Topics
+## Zod Topics
 
 - Runtime vs Compile-time
 - z.object()
@@ -52,4 +52,5 @@ Zod Topics
 - Zod → Express Integration
 
 Practical TypeScript Patterns
+<br />
 Self-Project / Capstone
